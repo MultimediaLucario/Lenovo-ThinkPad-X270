@@ -1,4 +1,4 @@
-# Lenovo-X270-Hackintosh-Monterey-OpenCore-0.8.3
+# Lenovo ThinkPad X270 OpenCore Configuration
 This repo contains the files and scripts to install macOS on the Lenovo X270 20K5
 You need to patch your systems own DSDT 
 
@@ -11,10 +11,10 @@ You need to patch your systems own DSDT
 
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad X270
-- <b>CPU</b>: Intel(R) Core(TM) i5-6300U CPU @ 2.50GHz
-- <b>GPU</b>: Intel HD Graphics 520
+- <b>CPU</b>: Intel(R) Core(TM) i5-7300U CPU @ 2.50GHz
+- <b>GPU</b>: Intel HD Graphics 620
 - <b>RAM</b>: 8 GB 2133MHz DDR4
-- <b>Screen</b>: 12,4" (1366x768)
+- <b>Screen</b>: 12.5" (1920x1080) IPS 
 - <b>Wi-Fi</b>: AC-8260
 - <b>Camera</b>: 720p
 - <b>Battery</b>: 3-cell with inside battery 
